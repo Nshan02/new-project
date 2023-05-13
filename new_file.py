@@ -1,2 +1,3 @@
 def some():
-    pass
+    
+    return 1
